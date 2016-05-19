@@ -1,10 +1,10 @@
 # CSGO LeSilvers
 
 ### What is this?
-CSGOLeSilvers is a Counter-Strike: Global Offensive jackpot skin betting website, created by me, Jordan Turley. It is hosted through Bluehost at http://www.csgowinbig.com
+CSGOLeSilvers is a Counter-Strike: Global Offensive jackpot skin betting website, created by me, Jordan Turley. It is hosted through Bluehost at http://www.csgolesilvers.com
 
-### How does CSGO Win Big work?
-This is the repository for the website for CSGO Win Big. It is written in HTML/CSS/JavaScript for the client-side, and PHP for the server-side.  
+### How does CSGO LeSilvers work?
+This is the repository for the website for CSGO LeSilvers. It is written in HTML/CSS/JavaScript for the client-side, and PHP for the server-side.  
 We are also making use of the following libraries/frameworks:
 * jQuery - http://jquery.com/
 * Bootstrap - http://getbootstrap.com/
