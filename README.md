@@ -1,4 +1,4 @@
-# CSGO Win Big
+# CSGO LeSilvers
 
 ### What is this?
 CSGOLeSilvers is a Counter-Strike: Global Offensive jackpot skin betting website, created by me, Jordan Turley. It is hosted through Bluehost at http://www.csgowinbig.com
