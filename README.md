@@ -1,7 +1,7 @@
 # CSGO Win Big
 
 ### What is this?
-CSGO Win Big is a Counter-Strike: Global Offensive jackpot skin betting website, created by me, Jordan Turley. It is hosted through Bluehost at http://www.csgowinbig.com
+CSGOLeSilvers is a Counter-Strike: Global Offensive jackpot skin betting website, created by me, Jordan Turley. It is hosted through Bluehost at http://www.csgowinbig.com
 
 ### How does CSGO Win Big work?
 This is the repository for the website for CSGO Win Big. It is written in HTML/CSS/JavaScript for the client-side, and PHP for the server-side.  
